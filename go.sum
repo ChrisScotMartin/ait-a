@@ -12,3 +12,5 @@ github.com/ChrisScotMartin/ait-c v0.0.3 h1:QWFYo5uiBBf5N53vL2DHsK+7vEGt6vtu5aEXN
 github.com/ChrisScotMartin/ait-c v0.0.3/go.mod h1:1So9qpdh+byE64X+o+IkMbvB/wnHujJEIEth2MYkvW8=
 github.com/ChrisScotMartin/ait-c/pkgmodc v0.0.3 h1:9sMozn7aOkzjs/OCxu/AVG4bB6XUwjeNFJp9VIlQ7e8=
 github.com/ChrisScotMartin/ait-c/pkgmodc v0.0.3/go.mod h1:D8acueX6WYtZvVjoYzpbvtWtj0O4/fhQJDGdwvN1WVo=
+github.com/ChrisScotMartin/ait-c/renamedpkgmodc v0.0.0-20221116201053-97d39d1a0b71 h1:8xZz9V8lop+lRg+sHehOmbGQ0AfcmkxRUtvmk1WC4gs=
+github.com/ChrisScotMartin/ait-c/renamedpkgmodc v0.0.0-20221116201053-97d39d1a0b71/go.mod h1:c7DA3qEx6DFcUxBbIi3RK5kgY1QEbCFj+OrZJhWao3I=

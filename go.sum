@@ -8,3 +8,7 @@ github.com/ChrisScotMartin/ait-b v0.0.6/go.mod h1:DH70KL8KOu7F3A+AI1HI2pdteQigWs
 github.com/ChrisScotMartin/ait-c v0.0.0-20221116180106-03d30d017fd3/go.mod h1:UptGV9HAe+1vloa+SZk4oGvv28Q+c0/vReklRUCMU28=
 github.com/ChrisScotMartin/ait-c v0.0.1 h1:1xt30GYdHpAlYMnbZ96/B6BjvGA9/F2EghYHHsVJzEE=
 github.com/ChrisScotMartin/ait-c v0.0.1/go.mod h1:UptGV9HAe+1vloa+SZk4oGvv28Q+c0/vReklRUCMU28=
+github.com/ChrisScotMartin/ait-c v0.0.3 h1:QWFYo5uiBBf5N53vL2DHsK+7vEGt6vtu5aEXNDmcKuk=
+github.com/ChrisScotMartin/ait-c v0.0.3/go.mod h1:1So9qpdh+byE64X+o+IkMbvB/wnHujJEIEth2MYkvW8=
+github.com/ChrisScotMartin/ait-c/pkgmodc v0.0.3 h1:9sMozn7aOkzjs/OCxu/AVG4bB6XUwjeNFJp9VIlQ7e8=
+github.com/ChrisScotMartin/ait-c/pkgmodc v0.0.3/go.mod h1:D8acueX6WYtZvVjoYzpbvtWtj0O4/fhQJDGdwvN1WVo=

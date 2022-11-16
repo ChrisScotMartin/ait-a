@@ -4,6 +4,5 @@ go 1.16
 
 require (
 	github.com/ChrisScotMartin/ait-b v0.0.6
-	github.com/ChrisScotMartin/ait-c v0.0.1 // indirect
-	github.com/ChrisScotMartin/ait-c/renamedpkgmodc v0.0.0-20221116201053-97d39d1a0b71 // indirect
+	github.com/ChrisScotMartin/ait-c/newdir/pkgmodc v0.0.0-20221116201812-2aa14e871a8a // indirect
 )

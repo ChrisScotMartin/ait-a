@@ -4,14 +4,14 @@ import (
 	"fmt"
 	"github.com/ChrisScotMartin/ait-a/pkgmoda"
 	"github.com/ChrisScotMartin/ait-b"
-	"github.com/ChrisScotMartin/ait-c/renamedpkgmodc"
+	"github.com/ChrisScotMartin/ait-c/newdir/pkgmodc"
 )
 
 // ait-a imports pkg/mods from ait-b and ait-c
 func main() {
 	fmt.Println("Hello World")
 	pkgmoda.Hello()
-	renamedpkgmodc.Hello()
+	pkgmodc.Hello()
 	libb.SomeLibraryFunc()
 }
 

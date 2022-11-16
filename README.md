@@ -20,3 +20,5 @@ replace github.com/ChrisScotMartin/ait-c => github.com/ChrisScotMartin/ait-c v0.
 However this becomes exponentially harder to maintain the more we convert packages to modules. Anything up the chain would need these replace statements for every module with ambiguous import issues.
 
 And since replace directives are not respected on import if ait-d were to import ait-a and ait-c but NOT ait-b (the offending library) it would still need these same replaces.
+
+<img width="701" alt="image" src="https://user-images.githubusercontent.com/101210272/202280014-2aace7a1-4e41-4ab3-9740-02c509831f33.png">

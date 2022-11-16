@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 	"github.com/ChrisScotMartin/ait-a/pkgmoda"
-	"github.com/ChrisScotMartin/ait-b/pkgmodb"
+	"github.com/ChrisScotMartin/ait-b"
 	"github.com/ChrisScotMartin/ait-c/pkgmodc"
 )
 
@@ -11,8 +11,8 @@ import (
 func main() {
 	fmt.Println("Hello World")
 	pkgmoda.Hello()
-	pkgmodb.Hello()
 	pkgmodc.Hello()
+	libb.SomeLibraryFunc()
 }
 
 func SomeServerFunc() {
